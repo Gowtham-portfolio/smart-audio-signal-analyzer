@@ -32,7 +32,20 @@ The system is suitable for **audio enhancement**, **signal processing learning**
 - SciPy  
 - Audio Processing Libraries  
 - Matplotlib  
-- Signal Processing Techniques  
+- Signal Processing Techniques
+
+  # Clone the repository
+git clone https://github.com/your-username/smart-audio-signal-analyzer.git
+
+# Navigate to the project directory
+cd smart-audio-signal-analyzer
+
+# Install required dependencies
+pip install -r requirements.txt
+
+# Run the application
+python main.py
+
 
 ---
 
